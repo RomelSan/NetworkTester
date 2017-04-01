@@ -1,4 +1,4 @@
-# Net Tester
+# Network Tester
 ### Description
 Test any network with iPerf3 and PsPing with a menu for Windows.
 
