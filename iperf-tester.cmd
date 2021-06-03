@@ -1,7 +1,8 @@
 @echo off
-:: iperf Tester v1.0
+:: iperf Tester v1.1
 :: by: Romel Vera
 :: Date: April 1 2017
+:: Updated: June 2 2021
 :: License: MIT
 
 cls

@@ -21,13 +21,14 @@ On Client Computer:
 - Batch
 
 ### Binaries Required:
-- iPerf3 v3.6 64bits: [iperf website](https://iperf.fr/)
+- iPerf3 v3.10.1 64bits: [iperf website](https://iperf.fr/)
 - PsPing v2.10 64bits: [Windows Sysinternals website](https://technet.microsoft.com/en-us/bb545021)
 
 ### Contact
 Twitter: [@RomelSan](http://www.twitter.com/RomelSan)  
 Date: April 1, 2017 12:33 PM  
-Latest Update: July 23, 2018 10:30 AM
+Latest Update: June 2, 2021 7:36 PM
 
 ### License
 MIT License
+
